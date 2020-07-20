@@ -1,0 +1,5 @@
+.idea/
+vendor/
+*.iml
+docker-compose.override.yml
+access_log

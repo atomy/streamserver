@@ -1,0 +1,6 @@
+#!/bin/bash
+
+set -e
+
+scp ~/.docker/config.json app@8.8.8.8:~/.docker/config.json
+ssh app@8.8.8.8 "cd /home/app/apps/streamserver.prod.google.de && docker-compose pull && docker-compose up -d"
