@@ -25,4 +25,4 @@ There is a log-file mounted `access_log` in project root.
 
 # Clients
 ## Streaming - OBS
-![OBS Streaming configuration]|(https://github.com/atomy/streamserver/blob/master/doc/Selection_002.png)
+![OBS Streaming configuration](https://github.com/atomy/streamserver/blob/master/doc/Selection_002.png)
