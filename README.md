@@ -24,5 +24,10 @@ docker-compose up -d
 There is a log-file mounted `access_log` in project root.
 
 # Clients
-## Streaming - OBS
+## Streaming - Broadcaster -  OBS
 ![OBS Streaming configuration|/doc/Selection_002.png]
+
+## Streaming - Viewer - VLC
+```
+vlc rtmp://localhost:1935/live/1?psk=default123
+```
