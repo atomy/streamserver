@@ -25,7 +25,7 @@ There is a log-file mounted `access_log` in project root.
 
 # Clients
 ## Streaming - Broadcaster -  OBS
-![OBS Streaming configuration|/doc/Selection_002.png]
+![OBS Streaming configuration](https://github.com/atomy/streamserver/blob/master/doc/Selection_002.png)
 
 ## Streaming - Viewer - VLC
 ```
